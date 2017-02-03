@@ -1,0 +1,6 @@
+v acheter une boisson
+v ajouter une boisson
+v modifier une boisson
+v supprimer une boisson
+v recharger un ingrédient
+v vérifier le stock
